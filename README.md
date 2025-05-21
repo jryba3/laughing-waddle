@@ -1,9 +1,9 @@
 <header>
-_:wink:_
+
 # Hello GitHub Actions
 
 _Create and run a GitHub Actions workflow._
-
+_:wink:_
 </header>
 
 ## Step 5: Trigger the workflow
